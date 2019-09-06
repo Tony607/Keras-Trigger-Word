@@ -85,3 +85,4 @@ ENV/
 XY_dev/
 XY_train/
 *.npy
+.vscode/
